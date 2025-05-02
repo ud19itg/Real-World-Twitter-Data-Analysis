@@ -26,7 +26,7 @@ The goal of this project was to:
 ## 📁 File Included
 
 | Real Time Twitter Data Analysis | 
-|-----------|-------------|
+
 |'Real Time Twitter Data Analysis.pbix' | Final Power BI dashboard file |
 
 ## 🧠 Learnings
@@ -37,6 +37,7 @@ The goal of this project was to:
 - Applied best practices for data visualization
 
 ## 📸 Dashboard Preview
+![image](https://github.com/user-attachments/assets/fa47588a-1a3b-46cb-95ec-ff5d66cb5eec)
 
 
 
